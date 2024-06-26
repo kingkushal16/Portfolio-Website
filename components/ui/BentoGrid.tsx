@@ -1,7 +1,6 @@
 'use client'
 
 import { cn } from "@/utils/cn";
-import { AuroraBackground } from "./aurora-background";
 import { BackgroundGradientAnimation } from "./GradientBG";
 import { GlobeDemo } from "./GridGlobe";
 import { div } from "three/examples/jsm/nodes/Nodes.js";
