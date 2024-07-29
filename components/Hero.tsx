@@ -2,8 +2,7 @@ import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import MagicButton from './ui/MagicButton'
-import { FaLocationArrow } from 'react-icons/fa'
-import { Vortex } from './ui/vortex'
+import { FaDownload} from 'react-icons/fa'
 
 export const Hero = () => {
   return (
@@ -30,10 +29,10 @@ export const Hero = () => {
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
                     Welcome to my portfolio website. Here, you can explore my projects and professional experiences. Please do not hesitate to contact me for any freelance projects or work opportunities.
                 </p>
-                <a href='#about'>
+                <a href='/Resume_final.pdf' download>
                   <MagicButton 
-                    title="Show my work"
-                    icon = {<FaLocationArrow />}
+                    title="view my resume"
+                    icon = {<FaDownload />}
                     position='right'
                   />
                 </a>

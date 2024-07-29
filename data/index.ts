@@ -86,6 +86,14 @@ export const navItems = [
       iconLists: ["/html.svg","/python.svg","/Jupyter.svg", "/c++.svg"],
       link: "https://github.com/kingkushal16/Smart-parking-monitoring",
     },
+    {
+      id: 3,
+      title: "ByteForge",
+      des: "An online IDE to conduct lab tests at RVCE.",
+      img: "/smart_parking_management.png",
+      iconLists: ["/dockerName.svg","/html.svg","/javascript.svg", "/c++.svg"],
+      link: "https://github.com/kingkushal16/integrated-remote-code-execution-system",
+    },
   ];
   
   export const workExperience = [
@@ -113,8 +121,8 @@ export const navItems = [
     },
     {
       id: 2,
-      img: "/twit.svg",
-      link: ""
+      img: "/leetcode.svg",
+      link: "https://leetcode.com/u/jkushal16/"
     },
     {
       id: 3,

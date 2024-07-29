@@ -3,8 +3,6 @@
 import { workExperience } from '@/data'
 import React from 'react'
 import { Button } from './ui/MovingBorders'
-import { div } from 'three/examples/jsm/nodes/Nodes.js'
-import { Vortex } from './ui/vortex'
 
 const Experience = () => {
   return (
