@@ -23,7 +23,7 @@ export const Hero = () => {
                   Welcome to Kushal&apos;s Portfolio Website
                 </h2>
                 
-                <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="Embrace the Will to Change"></TextGenerateEffect>
+                <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="I ship code faster than your overnight orders."></TextGenerateEffect>
                 
                 
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>

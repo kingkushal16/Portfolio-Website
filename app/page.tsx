@@ -17,8 +17,8 @@ export default function Home() {
         navItems={navItems}/>
         <Hero />
         <Grid />
-        <RecentProjects />
         <Experience />
+        <RecentProjects />
         <Footer />
       </div>
     </main>

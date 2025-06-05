@@ -99,17 +99,17 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
+      title: "Software Developer Intern - InMobi",
+      desc: "Optimized model monitoring and compliance pipelines, migrated 40+ jobs to GKS reducing costs by ~50%, and implemented Grafana monitoring using push gateway.",
+      className: "md:col-span-2",
+      thumbnail: "/inmobi.png",
+    },    
+    {
+      id: 2,
       title: "Intern - COE in VC, RVCE ",
       desc: "Working with modern computer vision techniques to make models that can help society",
       className: "md:col-span-2",
       thumbnail: "/VC.png",
-    },
-    {
-      id: 2,
-      title: "Intern - BobDao",
-      desc: "Developed a Electronic Health Record Management system using blockchain technologies",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/bobdao.png",
     },
   ];
   
