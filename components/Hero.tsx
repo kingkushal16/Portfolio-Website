@@ -29,7 +29,7 @@ export const Hero = () => {
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
                     Welcome to my portfolio website. Here, you can explore my projects and professional experiences. Please do not hesitate to contact me for any freelance projects or work opportunities.
                 </p>
-                <a href='/Resume_final.pdf' download>
+                <a href='/resume_kushal.pdf' download>
                   <MagicButton 
                     title="view my resume"
                     icon = {<FaDownload />}
